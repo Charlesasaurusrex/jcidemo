@@ -1,4 +1,4 @@
-package uk.ac.qub.eeecs.dave;
+package uk.ac.qub.eeecs.dave.dave;
 
 import static org.junit.jupiter.api.Assertions.*;
 

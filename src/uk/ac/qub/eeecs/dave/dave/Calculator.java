@@ -1,4 +1,4 @@
-package uk.ac.qub.eeecs.dave;
+package uk.ac.qub.eeecs.dave.dave;
 
 public class Calculator {
 	public int add(int a, int b) {
